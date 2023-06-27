@@ -1,5 +1,10 @@
 # 💫 About Me:
-    I am an 18-year-old high school student.<br>    Over the past year, I have been immersing myself in the world of web development.<br>    I have enthusiastically participated in multiple hackathons and collaborated on various projects.<br>    Additionally, I have embarked on several small web projects independently, honing my skills along the way.<br>    Currently, my primary focus is on mastering ReactJS, as I strive to enhance my expertise in this powerful framework.<br>    From a young age, I have fostered a deep passion for everything computer-related, constantly seeking to expand my knowledge and skills.
+    I am an 18-year-old high school student.
+    Over the past year, I have been immersing myself in the world of web development.
+    I have enthusiastically participated in multiple hackathons and collaborated on various projects.
+    Additionally, I have embarked on several small web projects independently, honing my skills along the way.
+    Currently, my primary focus is on mastering ReactJS, as I strive to enhance my expertise in this powerful framework.
+    From a young age, I have fostered a deep passion for everything computer-related, constantly seeking to expand my knowledge and skills.
 
 
 # 💻 Tech Stack:
