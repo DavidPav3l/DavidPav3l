@@ -4,7 +4,7 @@
     I have enthusiastically participated in multiple hackathons and collaborated on various projects.
     Additionally, I have embarked on several small web projects independently, honing my skills along the way.
     Currently, my primary focus is on mastering ReactJS, as I strive to enhance my expertise in this powerful framework.
-    From a young age, I have fostered a deep passion for everything computer-related, constantly seeking to expand my knowledge and skills.
+    From a young age, I have fostered a deep passion for everything computer-related.
 
 
 # 💻 Tech Stack:
